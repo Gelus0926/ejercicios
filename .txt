@@ -1,0 +1,5 @@
+""" if codigo in producto:
+            print(f"El codigo {codigo} se encuentra se encuentra en los productos") """
+        """  """
+
+        print(next(i for i in productos if i['codigo']== codigo))
